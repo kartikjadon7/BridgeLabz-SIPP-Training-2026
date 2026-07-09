@@ -1,4 +1,3 @@
-
 USE covid_19;
 
 -- Use Case 1 & 2
